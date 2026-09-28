@@ -1,1 +1,1 @@
-![Output Program](..\Screenshot 2026-09-28 214846.png)
+![Output Program](../Screenshot%202026-09-28%20214846.png)
